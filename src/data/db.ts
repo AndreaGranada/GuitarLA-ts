@@ -16,7 +16,6 @@ interface Guitar {
     description: string
     price: number
 }
-
 */
 const db : Guitar[] = [
     {
